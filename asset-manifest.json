@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/Catering/static/css/main.e7eef83d.css",
+    "main.js": "/Catering/static/js/main.cfb5a72d.js",
+    "static/js/453.e324d4e0.chunk.js": "/Catering/static/js/453.e324d4e0.chunk.js",
+    "static/media/food1.jpeg": "/Catering/static/media/food1.967b334594319abebfc2.jpeg",
+    "static/media/food.jpg": "/Catering/static/media/food.ddf566bb7d5899456680.jpg",
+    "static/media/pizza.jpg": "/Catering/static/media/pizza.f9820b433c43f92f4a2f.jpg",
+    "static/media/change3.png": "/Catering/static/media/change3.c2402f653939caea16d6.png",
+    "static/media/change7.png": "/Catering/static/media/change7.8406f37fd1fb35d5f348.png",
+    "static/media/change1.png": "/Catering/static/media/change1.3e534edc83c04e02d2a4.png",
+    "static/media/change4.png": "/Catering/static/media/change4.6049f1c32a06463a106e.png",
+    "static/media/change2.png": "/Catering/static/media/change2.3dac9af8225be9ea70cf.png",
+    "static/media/change6.png": "/Catering/static/media/change6.c9e8f1e0470abc01e4b1.png",
+    "static/media/burger.jpg": "/Catering/static/media/burger.3e7b98837ce8a14c55ee.jpg",
+    "static/media/coock.png": "/Catering/static/media/coock.7f6c3c255b6b938b758e.png",
+    "static/media/dish.jpeg": "/Catering/static/media/dish.b44b65b677b0fb5a8c88.jpeg",
+    "static/media/chican1.jpg": "/Catering/static/media/chican1.70959c20f3c23c0fb8ca.jpg",
+    "static/media/burger4.jpg": "/Catering/static/media/burger4.107a523178b2bab75178.jpg",
+    "static/media/checan1.jpg": "/Catering/static/media/checan1.88dba006eb5f48ffe7be.jpg",
+    "static/media/m-logo.png": "/Catering/static/media/m-logo.7fe8396b96c8986f6f27.png",
+    "static/media/pratha.jpg": "/Catering/static/media/pratha.4b3e8a233cdec524ee79.jpg",
+    "static/media/juice.jpg": "/Catering/static/media/juice.aa9161338d8bfb7f2461.jpg",
+    "static/media/pao.jpg": "/Catering/static/media/pao.ac0f9ad17bc3663aa867.jpg",
+    "static/media/q2.png": "/Catering/static/media/q2.0a806d30b038c418a83a.png",
+    "static/media/happy.jpg": "/Catering/static/media/happy.75231f20b8550fd9b05e.jpg",
+    "static/media/owp-ppl7-1.jpg": "/Catering/static/media/owp-ppl7-1.23d0037c4bc7f0050fe7.jpg",
+    "static/media/owp-people-2.jpg": "/Catering/static/media/owp-people-2.77bb44b44f9036d49cd1.jpg",
+    "index.html": "/Catering/index.html",
+    "main.e7eef83d.css.map": "/Catering/static/css/main.e7eef83d.css.map",
+    "main.cfb5a72d.js.map": "/Catering/static/js/main.cfb5a72d.js.map",
+    "453.e324d4e0.chunk.js.map": "/Catering/static/js/453.e324d4e0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7eef83d.css",
+    "static/js/main.cfb5a72d.js"
+  ]
+}
